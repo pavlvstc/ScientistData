@@ -1,0 +1,7 @@
+*********************
+Libro en español para aprender git
+
+http://git-scm.com/book/es/
+*********************
+
+

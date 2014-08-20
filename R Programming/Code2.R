@@ -3,7 +3,10 @@ getwd()
 # Para portatil
 setwd("C:\\Users\\UTPL_IBM\\Dropbox\\Mi Formación\\Data Science Specialization\\R Programming")
 # Para PC
+
 setwd("F:\\DropBox\\Dropbox\\Mi Formación\\Data Science Specialization\\R Programming")
+
+setwd("F:\\GitHub\\ScientistData\\R Programming")
 dir()
 
 
